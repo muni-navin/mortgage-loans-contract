@@ -1,0 +1,1 @@
+According to micro service design principle MORTGAAGE contract is created to define the contract
